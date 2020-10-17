@@ -1,0 +1,16 @@
+10/17/2020 12:00:34 PM: INFO: Current google-chrome version is 86.0.4240
+10/17/2020 12:00:34 PM: INFO: Get LATEST driver version for 86.0.4240
+10/17/2020 12:00:34 PM: INFO: Driver [C:\Users\Krishnanjali\.wdm\drivers\chromedriver\win32\86.0.4240.22\chromedriver.exe] found in cache
+10/17/2020 12:00:37 PM: INFO: ******* Test Case Part1 started ********
+10/17/2020 12:00:52 PM: INFO: ******* Storing the tag and questions count in list ********
+10/17/2020 12:00:54 PM: INFO: ******* Getting the max values of questions from question list ********
+10/17/2020 12:00:54 PM: INFO: ******* Creating the dictionary from the two list created ********
+10/17/2020 12:00:55 PM: INFO: ******* Test Case part1 finished! ********
+10/17/2020 12:01:31 PM: INFO: Current google-chrome version is 86.0.4240
+10/17/2020 12:01:31 PM: INFO: Get LATEST driver version for 86.0.4240
+10/17/2020 12:01:31 PM: INFO: Driver [C:\Users\Krishnanjali\.wdm\drivers\chromedriver\win32\86.0.4240.22\chromedriver.exe] found in cache
+10/17/2020 12:01:35 PM: INFO: ******* Test Case Part1 started ********
+10/17/2020 12:01:46 PM: INFO: ******* Storing the tag and questions count in list ********
+10/17/2020 12:01:48 PM: INFO: ******* Getting the max values of questions from question list ********
+10/17/2020 12:01:48 PM: INFO: ******* Creating the dictionary from the two list created ********
+10/17/2020 12:01:48 PM: INFO: ******* Test Case part1 finished! ********
